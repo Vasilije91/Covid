@@ -2,4 +2,6 @@
 
 Covid analysis and visualation by
 
-https://user-images.githubusercontent.com/95000481/143324445-d4b82742-8c4b-4cde-ad17-9dcded679441.png
+![Vasilije Simonovic CV](https://user-images.githubusercontent.com/95000481/143326285-079228dd-25d7-4619-bd2c-bd6096b60c42.png)
+
+
